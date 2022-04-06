@@ -8,12 +8,6 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-/*
-* Nicola Bdewi
-* Assignment 3
-* ID: 40161428
-* */
-
 /**
  * This class is the Driver class that contains the processFilesForValidation and main methods.
  * It has 3 private attributes, which are the title of the file, a string of attribute(of that file) and a string to make it *** when necessary.
