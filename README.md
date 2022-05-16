@@ -1,5 +1,5 @@
 # CSV2LATEX
-This program converts a CSV file into Latex file. 
+This program converts a CSV file into a Latex file. 
 
 CSV files included for testing. 
 
